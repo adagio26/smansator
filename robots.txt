@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smansator.sch.id/grade/sitemap.xml
